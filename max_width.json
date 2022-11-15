@@ -1,42 +1,42 @@
 [
-    {
-        "name": "max-w-none",
-        "value": "max-w-none"
-    },
-    {
-        "name": "max-w-xs",
-        "value": "max-w-xs"
-    },
-    {
-        "name": "max-w-sm",
-        "value": "max-w-sm"
-    },
-    {
-        "name": "max-w-md",
-        "value": "max-w-md"
-    },
-    {
-        "name": "max-w-lg",
-        "value": "max-w-lg"
-    },
-    {
-        "name": "max-w-xl",
-        "value": "max-w-xl"
-    },
-    {
-        "name": "max-w-2xl",
-        "value": "max-w-2xl"
-    },
-    {
-        "name": "max-w-3xl",
-        "value": "max-w-3xl"
-    },
-    {
-        "name": "max-w-4xl",
-        "value": "max-w-4xl"
-    },
-    {
-        "name": "max-w-5xl",
-        "value": "max-w-5xl"
-    }
+  {
+    "name": "max-w-none",
+    "value": "max-w-none"
+  },
+  {
+    "name": "max-w-xs",
+    "value": "max-w-xs"
+  },
+  {
+    "name": "max-w-sm",
+    "value": "max-w-sm"
+  },
+  {
+    "name": "max-w-md",
+    "value": "max-w-md"
+  },
+  {
+    "name": "max-w-lg",
+    "value": "max-w-lg"
+  },
+  {
+    "name": "max-w-xl",
+    "value": "max-w-xl"
+  },
+  {
+    "name": "max-w-2xl",
+    "value": "max-w-2xl"
+  },
+  {
+    "name": "max-w-3xl",
+    "value": "max-w-3xl"
+  },
+  {
+    "name": "max-w-4xl",
+    "value": "max-w-4xl"
+  },
+  {
+    "name": "max-w-5xl",
+    "value": "max-w-5xl"
+  }
 ]
