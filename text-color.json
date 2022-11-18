@@ -1,0 +1,18 @@
+[
+    {
+        "name": "text-black",
+        "value": "text-black"
+    },
+    {
+        "name": "text-white",
+        "value": "text-white"
+    },
+    {
+        "name": "text-primary",
+        "value": "text-primary"
+    },
+    {
+        "name": "text-secondary",
+        "value": "text-secondary"
+    }
+]

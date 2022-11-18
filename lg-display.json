@@ -1,0 +1,26 @@
+[
+    {
+        "name": "lg:block",
+        "value": "lg:block"
+    },
+    {
+        "name": "lg:inline-block",
+        "value": "lg:inline-block"
+    },
+    {
+        "name": "lg:inline",
+        "value": "lg:inline"
+    },
+    {
+        "name": "lg:flex",
+        "value": "lg:flex"
+    },
+    {
+        "name": "lg:inline-flex",
+        "value": "lg:inline-flex"
+    },
+    {
+        "name": "lg:hidden",
+        "value": "lg:hidden"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "bg-primary",
+        "value": "bg-primary"
+    },
+    {
+        "name": "bg-secondary",
+        "value": "bg-secondary"
+    },
+    {
+        "name": "bg-container",
+        "value": "bg-container"
+    },
+    {
+        "name": "bg-white",
+        "value": "bg-white"
+    },
+    {
+        "name": "bg-black",
+        "value": "bg-black"
+    }
+]

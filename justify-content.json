@@ -1,0 +1,26 @@
+[
+    {
+        "name": "justify-start",
+        "value": "justify-start"
+    },
+    {
+        "name": "justify-end",
+        "value": "justify-end"
+    },
+    {
+        "name": "justify-center",
+        "value": "justify-center"
+    },
+    {
+        "name": "justify-between",
+        "value": "justify-between"
+    },
+    {
+        "name": "justify-around",
+        "value": "justify-around"
+    },
+    {
+        "name": "justify-evenly",
+        "value": "justify-evenly"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "text-left",
+        "value": "text-left"
+    },
+    {
+        "name": "text-center",
+        "value": "text-center"
+    },
+    {
+        "name": "text-right",
+        "value": "text-right"
+    }
+]

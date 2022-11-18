@@ -1,0 +1,106 @@
+[
+    {
+        "name": "lg:m-0",
+        "value": "lg:m-0"
+    },
+    {
+        "name": "lg:mx-0",
+        "value": "lg:mx-0"
+    },
+    {
+        "name": "lg:my-0",
+        "value": "lg:my-0"
+    },
+    {
+        "name": "lg:mb-0",
+        "value": "lg:mb-0"
+    },
+    {
+        "name": "lg:m-2",
+        "value": "lg:m-2"
+    },
+    {
+        "name": "lg:mx-2",
+        "value": "lg:mx-2"
+    },
+    {
+        "name": "lg:my-2",
+        "value": "lg:my-2"
+    },
+    {
+        "name": "lg:mb-2",
+        "value": "lg:mb-2"
+    },
+    {
+        "name": "lg:m-4",
+        "value": "lg:m-4"
+    },
+    {
+        "name": "lg:mx-4",
+        "value": "lg:mx-4"
+    },
+    {
+        "name": "lg:my-4",
+        "value": "lg:my-4"
+    },
+    {
+        "name": "lg:mb-4",
+        "value": "lg:mb-4"
+    },
+    {
+        "name": "lg:m-8",
+        "value": "lg:m-8"
+    },
+    {
+        "name": "lg:mx-8",
+        "value": "lg:mx-8"
+    },
+    {
+        "name": "lg:my-8",
+        "value": "lg:my-8"
+    },
+    {
+        "name": "lg:mb-8",
+        "value": "lg:mb-8"
+    },
+    {
+        "name": "lg:m-12",
+        "value": "lg:m-12"
+    },
+    {
+        "name": "lg:mx-12",
+        "value": "lg:mx-12"
+    },
+    {
+        "name": "lg:my-12",
+        "value": "lg:my-12"
+    },
+    {
+        "name": "lg:mb-12",
+        "value": "lg:mb-12"
+    },
+    {
+        "name": "lg:mx-16",
+        "value": "lg:mx-16"
+    },
+    {
+        "name": "lg:my-16",
+        "value": "lg:my-16"
+    },
+    {
+        "name": "lg:mb-16",
+        "value": "lg:mb-16"
+    },
+    {
+        "name": "lg:m-auto",
+        "value": "lg:m-auto"
+    },
+    {
+        "name": "lg:mx-auto",
+        "value": "lg:mx-auto"
+    },
+    {
+        "name": "lg:my-auto",
+        "value": "lg:my-auto"
+    }
+]

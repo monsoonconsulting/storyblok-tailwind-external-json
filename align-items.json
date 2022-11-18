@@ -1,0 +1,22 @@
+[
+    {
+        "name": "items-start",
+        "value": "items-start"
+    },
+    {
+        "name": "items-end",
+        "value": "items-end"
+    },
+    {
+        "name": "items-center",
+        "value": "items-center"
+    },
+    {
+        "name": "items-baseline",
+        "value": "items-baseline"
+    },
+    {
+        "name": "items-stretch",
+        "value": "items-stretch"
+    }
+]

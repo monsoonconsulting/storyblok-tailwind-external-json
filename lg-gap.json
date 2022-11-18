@@ -1,0 +1,22 @@
+[
+    {
+        "name": "lg:gap-1",
+        "value": "lg:gap-1"
+    },
+    {
+        "name": "lg:gap-2",
+        "value": "lg:gap-2"
+    },
+    {
+        "name": "lg:gap-4",
+        "value": "lg:gap-4"
+    },
+    {
+        "name": "lg:gap-6",
+        "value": "lg:gap-6"
+    },
+    {
+        "name": "lg:gap-8",
+        "value": "lg:gap-8"
+    }
+]

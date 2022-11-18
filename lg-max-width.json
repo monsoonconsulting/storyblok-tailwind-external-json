@@ -1,0 +1,42 @@
+[
+    {
+        "name": "lg:max-w-none",
+        "value": "lg:max-w-none"
+    },
+    {
+        "name": "lg:max-w-xs",
+        "value": "lg:max-w-xs"
+    },
+    {
+        "name": "lg:max-w-sm",
+        "value": "lg:max-w-sm"
+    },
+    {
+        "name": "lg:max-w-md",
+        "value": "lg:max-w-md"
+    },
+    {
+        "name": "lg:max-w-lg",
+        "value": "lg:max-w-lg"
+    },
+    {
+        "name": "lg:max-w-xl",
+        "value": "lg:max-w-xl"
+    },
+    {
+        "name": "lg:max-w-2xl",
+        "value": "lg:max-w-2xl"
+    },
+    {
+        "name": "lg:max-w-3xl",
+        "value": "lg:max-w-3xl"
+    },
+    {
+        "name": "lg:max-w-4xl",
+        "value": "lg:max-w-4xl"
+    },
+    {
+        "name": "lg:max-w-5xl",
+        "value": "lg:max-w-5xl"
+    }
+]

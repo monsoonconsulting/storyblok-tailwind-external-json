@@ -1,0 +1,30 @@
+[
+    {
+        "name": "content-center",
+        "value": "content-center"
+    },
+    {
+        "name": "content-start",
+        "value": "content-start"
+    },
+    {
+        "name": "content-end",
+        "value": "content-end"
+    },
+    {
+        "name": "content-between",
+        "value": "content-between"
+    },
+    {
+        "name": "content-around",
+        "value": "content-around"
+    },
+    {
+        "name": "content-evenly",
+        "value": "content-evenly"
+    },
+    {
+        "name": "content-baseline",
+        "value": "content-baseline"
+    }
+]

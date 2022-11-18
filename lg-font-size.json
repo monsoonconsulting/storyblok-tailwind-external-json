@@ -1,0 +1,38 @@
+[
+    {
+        "name": "lg:text-xs",
+        "value": "lg:text-xs"
+    },
+    {
+        "name": "lg:text-sm",
+        "value": "lg:text-sm"
+    },
+    {
+        "name": "lg:text-base",
+        "value": "lg:text-base"
+    },
+    {
+        "name": "lg:text-lg",
+        "value": "lg:text-lg"
+    },
+    {
+        "name": "lg:text-xl",
+        "value": "lg:text-xl"
+    },
+    {
+        "name": "lg:text-2xl",
+        "value": "lg:text-2xl"
+    },
+    {
+        "name": "lg:text-3xl",
+        "value": "lg:text-3xl"
+    },
+    {
+        "name": "lg:text-4xl",
+        "value": "lg:text-4xl"
+    },
+    {
+        "name": "lg:text-5xl",
+        "value": "lg:text-5xl"
+    }
+]

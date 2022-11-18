@@ -1,0 +1,14 @@
+[
+    {
+        "name": "flex-wrap",
+        "value": "flex-wrap"
+    },
+    {
+        "name": "flex-wrap-reverse",
+        "value": "flex-wrap-reverse"
+    },
+    {
+        "name": "flex-nowrap",
+        "value": "flex-nowrap"
+    }
+]
