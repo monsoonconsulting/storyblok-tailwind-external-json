@@ -92,6 +92,18 @@
         "value": "lg:mb-16"
     },
     {
+        "name": "lg:mx-20",
+        "value": "lg:mx-20"
+    },
+    {
+        "name": "lg:my-20",
+        "value": "lg:my-20"
+    },
+    {
+        "name": "lg:mb-20",
+        "value": "lg:mb-20"
+    },
+    {
         "name": "lg:m-auto",
         "value": "lg:m-auto"
     },
